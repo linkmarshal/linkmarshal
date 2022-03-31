@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @linkmarshal
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in machine learning, Data Engineering, Analysis(anything data)
 - 💞️ I’m looking to collaborate on deep ml
 - 📫 How to reach me (linkmarshal2017@gmail.com)
 
